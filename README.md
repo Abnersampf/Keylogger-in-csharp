@@ -9,7 +9,8 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 <br>
 
-- PROGRAM DETAILS:
+<h3>- PROGRAM DETAILS:</h3>
+
   - Can detect 254 different keys (mouse/keyboard);
     
   - Of these 254, only 31 do not have a representation (due to my laziness) and are therefore represented by a hexadecimal value, the meaning of which can be found at the following link: https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes.
@@ -24,18 +25,24 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
       
   - By default the console (application window) is visible, you can change this by following some tips below;
     
-  - The log (Keylogger.txt) is automatically generated in the same folder as the executable. There is therefore no need to create a file to store the data. If you move the file (.txt), the program will create another (blank file) in the same location as the executable.
+  - The log file "Keylogger.txt" will be saved in the path "C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Log". The program creates the "Log" folder automatically..
 
 <br>
 
-- IMPORTANT:
+<h3>- IMPORTANT:</h3>
+
   - Use .NET 7.0 (dotnet 7.0);
   - The program does NOT work with online compilers;
   - I do not recommend testing the program in the terminal of your IDE/text editor, compile the program and run the executable file!
 
 <br>
 
-- IMAGES OF THE PROGRAM RUNNING:
+- HOW TO MAKE THE PROGRAM START AUTOMATICALLY EVERY TIME THE COMPUTER TURNS ON:
+
+<br>
+
+<h3>- IMAGES OF THE PROGRAM RUNNING:</h3>
+
   - Entering a password.
     
    <br>
@@ -55,7 +62,8 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
   <br><br><br>
 
-- (TIP) IF YOU WANT TO HIDE THE CONSOLE WINDOW, FOLLOW THE STEPS BELOW:
+<h3>- (TIP) IF YOU WANT TO HIDE THE CONSOLE WINDOW, FOLLOW THE STEPS BELOW:</h3>
+
   - Go to solution explorer, then right-click on your project.
     
     <div>
