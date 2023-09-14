@@ -37,16 +37,10 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 <br>
 
-- HOW TO MAKE THE PROGRAM START AUTOMATICALLY EVERY TIME THE COMPUTER TURNS ON:
-
-<br>
-
 <h3>- IMAGES OF THE PROGRAM RUNNING:</h3>
 
   - Entering a password.
     
-   <br>
-   
   <div>
     <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/dd6f08b5-bc7c-41b7-9333-e497cc8e3ea6" width="800px"/>
   </div>
@@ -55,7 +49,6 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
   - Accessing a website.
     
-    <br>
   <div>
     <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/8cca9f71-9f17-45b4-b92c-710558cc815d" width="800px"/>
   </div>
@@ -93,3 +86,11 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
     <div>
       <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/aae22c32-358a-4373-9f61-d8117457685d" width="770px"/>
     </div>
+
+<br><br>
+
+<h3>- HOW TO MAKE THE PROGRAM START AUTOMATICALLY EVERY TIME THE COMPUTER TURNS ON:</h3>
+
+<br>
+
+
