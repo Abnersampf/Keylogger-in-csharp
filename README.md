@@ -53,6 +53,8 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
     <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/8cca9f71-9f17-45b4-b92c-710558cc815d" width="800px"/>
   </div>
 
+  <br><br><br>
+
 - (TIP) IF YOU WANT TO HIDE THE CONSOLE WINDOW, FOLLOW THE STEPS BELOW:
   - Go to solution explorer, then right-click on your project.
     
