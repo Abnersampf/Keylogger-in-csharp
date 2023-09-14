@@ -91,6 +91,31 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 <h3>- HOW TO MAKE THE PROGRAM START AUTOMATICALLY EVERY TIME THE COMPUTER TURNS ON:</h3>
 
-<br>
+<h6>- NOTE: I'LL ASSUME THAT YOU DID THE PREVIUS STEP OF MAKING THE CONSOLE INVISIBLE, BECAUSE THERE IS NO SENSE IN DOING THIS WITH THE CONSOLE WINDOW VISIBLE.</h6>
 
+- First of all you'll need to build the project into one single file (.exe), all the dependencies will be included in this executable.
+  - IF YOU DON'T KNOW HOW TO DO THIS, VISIT THIS LINK: https://learn.microsoft.com/en-us/dotnet/core/deploying/single-file/overview?tabs=vs.
 
+- Once you have the .exe file you'll copy it:
+  
+    <div>
+        <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/0d4094d2-0521-4470-b66a-cff16ed56079" width="770px"/>
+    </div>
+
+- Go to C: > Users > Abner > AppData > Roaming > Microsoft > Windows > Start Menu > Programs > Startup, and paste it:
+
+    <div>
+        <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/75ef229a-8817-4495-b060-a0b044f78300" width="770px"/>
+    </div>
+
+- Now everything is ready!
+
+    <div>
+        <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/518964be-5907-48f4-adac-d193d7765363" width="770px"/>
+    </div>
+
+- If you want to see the file with the captured lyrics (Ketlogger.txt), go to  C: > Users > Abner > AppData > Roaming > Microsoft > Windows > Start Menu > Programs > Log, there you will find the text file:
+
+    <div>
+         <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/ea9204d3-c8a3-40b5-ae22-d28d863d2b39" width="770px"/>
+    </div>
