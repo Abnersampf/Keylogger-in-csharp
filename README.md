@@ -5,7 +5,9 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 - PROGRAM DETAILS:
   - Can detect 254 different keys (mouse/keyboard);
+    
   - Of these 254, only 31 do not have a representation (due to my laziness) and are therefore represented by a hexadecimal value, the meaning of which can be found at the following link: https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes.
+    
   - Of the 223 keys registered in the program, 208 are part of the ConsoleKey Enum. And even though they are represented, some of the keys are difficult to understand. For example:
     - "D0" is the representation of the 0 key;
     - "D1" is the representation of the 1 key;
@@ -13,7 +15,9 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
     - "NumPad2" is the representation of the 2 key on the numeric keypad;
     - "OemComma" is the representation of the "," key;
     - To understand the meaning/representation of these words, go to the following link: https://learn.microsoft.com/en-us/dotnet/api/system.consolekey?view=net-7.0.
+      
   - By default the console (application window) is visible, you can change this by following some tips below;
+    
   - The log (Keylogger.txt) is automatically generated in the same folder as the executable. There is therefore no need to create a file to store the data. If you move the file (.txt), the program will create another (blank file) in the same location as the executable.
 
 <br>
