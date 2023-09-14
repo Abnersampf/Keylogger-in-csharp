@@ -93,7 +93,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 <h6>- NOTE: I'LL ASSUME THAT YOU DID THE PREVIUS STEP OF MAKING THE CONSOLE INVISIBLE, BECAUSE THERE IS NO SENSE IN DOING THIS WITH THE CONSOLE WINDOW VISIBLE.</h6>
 
-- First of all you'll need to build the project into a single file (.exe), all the dependencies will be included in this executable.
+- First of all you'll need to build the project into a single file (.exe), all the dependencies has to be included in this executable.
   - IF YOU DON'T KNOW HOW TO DO THIS, VISIT THIS LINK: https://learn.microsoft.com/en-us/dotnet/core/deploying/single-file/overview?tabs=vs.
 
 - Once you have the .exe file you'll copy it:
