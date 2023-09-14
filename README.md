@@ -1,6 +1,8 @@
 # Keylogger-in-csharp
 This is my first successful attempt at making a keylogger. It's simple but it works!
 
+<br>
+
 - PROGRAM DETAILS:
   - Can detect 254 different keys (mouse/keyboard);
   - Of these 254, only 31 do not have a representation (due to my laziness) and are therefore represented by a hexadecimal value, the meaning of which can be found at the following link: https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes.
@@ -14,12 +16,32 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
   - By default the console (application window) is visible, you can change this by following some tips below;
   - The log (Keylogger.txt) is automatically generated in the same folder as the executable. There is therefore no need to create a file to store the data. If you move the file (.txt), the program will create another (blank file) in the same location as the executable.
 
+<br>
+
 - IMPORTANT:
   - Use .NET 7.0 (dotnet 7.0);
   - The program does NOT work with online compilers;
   - I do not recommend testing the program in the terminal of your IDE/text editor, compile the program and run the executable file!
 
 <br>
+
+- IMAGES OF THE PROGRAM RUNNING:
+  - Entering a password.
+    
+   <br>
+   
+  <div>
+    <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/bda37ed5-42c4-41bf-8247-a698f08078d9" width="800px"/>
+  </div>
+
+  <br>
+
+  - Accessing a website.
+    
+    <br>
+  <div>
+    <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/c2168522-2dbb-4626-a553-914ee85261bf" width="800px"/>
+  </div>
 
 - (TIP) IF YOU WANT TO HIDE THE CONSOLE WINDOW, FOLLOW THE STEPS BELOW:
   - Go to solution explorer, then right-click on your project.
