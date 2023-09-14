@@ -35,7 +35,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
    <br>
    
   <div>
-    <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/bda37ed5-42c4-41bf-8247-a698f08078d9" width="800px"/>
+    <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/dd6f08b5-bc7c-41b7-9333-e497cc8e3ea6" width="800px"/>
   </div>
 
   <br>
@@ -44,7 +44,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
     
     <br>
   <div>
-    <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/c2168522-2dbb-4626-a553-914ee85261bf" width="800px"/>
+    <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/8cca9f71-9f17-45b4-b92c-710558cc815d" width="800px"/>
   </div>
 
 - (TIP) IF YOU WANT TO HIDE THE CONSOLE WINDOW, FOLLOW THE STEPS BELOW:
