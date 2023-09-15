@@ -3,7 +3,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 <br>
 
-<div>
+<div align="center">
     <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/02a94cc5-15af-43f3-8866-fed9acdeb967" width="500px"/>
 </div>
 
