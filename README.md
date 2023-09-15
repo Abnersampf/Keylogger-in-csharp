@@ -25,7 +25,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
       
   - By default the console (application window) is visible, you can change this by following some tips below;
     
-  - The log file "Keylogger.txt" will be saved in the path "C:\Users\Your User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Log". The program creates the "Log" folder automatically..
+  - The log file "Keylogger.txt" will be saved in the path "C: > Users > Your User > AppData > Roaming > Microsoft > Windows > Start Menu > Programs > Log". The program creates the "Log" folder automatically..
 
 <br>
 
