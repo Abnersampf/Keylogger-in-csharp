@@ -31,7 +31,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
 
 <h3>- IMPORTANT:</h3>
 
-  - Use .NET 7.0 (dotnet 7.0);
+  - I recommend using .NET 7.0 (dotnet 7.0);
   - The program does NOT work with online compilers;
   - I do not recommend testing the program in the terminal of your IDE/text editor, compile the program and run the executable file!
 
