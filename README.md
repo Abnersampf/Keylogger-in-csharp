@@ -114,7 +114,7 @@ This is my first successful attempt at making a keylogger. It's simple but it wo
         <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/518964be-5907-48f4-adac-d193d7765363" width="770px"/>
     </div>
 
-- If you want to see the file with the captured keys (Ketlogger.txt), go to  C: > Users > Your User > AppData > Roaming > Microsoft > Windows > Start Menu > Programs > Log, there you will find the text file:
+- If you want to see the file with the captured keys (Keylogger.txt), go to  C: > Users > Your User > AppData > Roaming > Microsoft > Windows > Start Menu > Programs > Log, there you will find the text file:
 
     <div>
          <img src="https://github.com/Abnersampf/Keylogger-in-csharp/assets/58574013/ea9204d3-c8a3-40b5-ae22-d28d863d2b39" width="770px"/>
